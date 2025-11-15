@@ -1,3 +1,4 @@
+// src/components/article/Article.tsx
 import clsx from 'clsx';
 
 // Сообщаем вебпаку, что этот файл использует это изображение.

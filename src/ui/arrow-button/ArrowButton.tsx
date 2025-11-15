@@ -1,3 +1,4 @@
+// src/components/ui/arrow-button/ArrowButton.tsx
 import arrow from 'src/images/arrow.svg';
 
 import styles from './ArrowButton.module.scss';

@@ -1,3 +1,4 @@
+// src/components/ui/arrow-button/ArrowButton.stories.tsx
 import type { Meta, StoryObj } from '@storybook/react';
 
 import { ArrowButton } from './ArrowButton';
