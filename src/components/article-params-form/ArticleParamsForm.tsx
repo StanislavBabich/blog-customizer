@@ -111,11 +111,10 @@ export const ArticleParamsForm = ({
 					className={styles.form}
 					onSubmit={handleSubmit}
 					onReset={handleReset}>
-					<div className={styles.title}>
-						<Text as='h2' size={31} weight={800} uppercase>
-							Задайте параметры
-						</Text>
-					</div>
+					<Text as='h2' size={31} weight={800} uppercase>
+						Задайте параметры
+					</Text>
+
 					<Select
 						title='Шрифт'
 						selected={formState.fontFamilyOption}
